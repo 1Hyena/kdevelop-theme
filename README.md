@@ -16,7 +16,7 @@ the KDevelop IDE.
 The _codeblocks.theme_ file itself is [here](codeblocks.theme).
 
 
-# License ######################################################################
+# License ########################################################################
 
 The contents of this repository have been authored by Erich Erstu and are released
 under the [MIT](LICENSE) license.
