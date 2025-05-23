@@ -5,11 +5,11 @@ to copy the code highlighting configuration from the Code::Blocks IDE and compil
 a theme file that could be imported into KDevelop. **Pull requests are welcome.**
 
 
-## The Code::Blocks C Theme ######################################################
+## The Code::Blocks C&C++ Theme ##################################################
 
-This code highlighting theme is compatible with the syntax of the C programming
-language. Below is a screenshot depicting how this theme makes the code appear in
-the KDevelop IDE.
+This code highlighting theme is compatible with the syntax of both the C and C++
+programming languages. Below is a screenshot depicting how this theme makes C
+code appear in the [KDevelop IDE](https://github.com/KDE/kdevelop/).
 
 ![Code::Blocks theme preview](codeblocks.jpg)
 
