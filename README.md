@@ -1,9 +1,9 @@
-# Custom Color Theme for the KDevelop IDE ########################################
+# Custom Color Theme for KDevelop ################################################
 
-Since the [KDevelop IDE](https://github.com/KDE/kdevelop/) comes with a rather
-unpleasant set of color themes, I decided to copy the code highlighting style from
-the [Code::Blocks IDE](https://www.codeblocks.org/) and compile a theme file that
-could be imported into the KDevelop IDE.
+Since [KDevelop](https://kdevelop.org/) comes with a set of built-in color themes
+that are dissatisfactory to my taste, I decided to copy the code highlighting and
+style configuration from [Code::Blocks](https://www.codeblocks.org/) and compile a
+theme file that could be imported into the KDevelop IDE.
 
 
 ## The Code::Blocks C&C++ Theme ##################################################
