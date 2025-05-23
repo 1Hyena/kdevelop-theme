@@ -100,9 +100,8 @@
             "text-color": "#9898d9"
         },
         "Annotation": {
-            "selected-text-color": "#a44ea4",
-            "strike-through": true,
-            "text-color": "#ca60ca"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         },
         "Attribute": {
             "bold": true,
@@ -110,32 +109,34 @@
             "text-color": "#0000a0"
         },
         "BaseN": {
-            "selected-text-color": "#805c00",
-            "strike-through": true,
-            "text-color": "#b08000"
+            "selected-text-color": "#F000F0",
+            "strike-through": false,
+            "text-color": "#F000F0"
         },
         "BuiltIn": {
-            "selected-text-color": "#452886",
-            "text-color": "#644a9b"
+            "selected-text-color": "#00A000",
+            "text-color": "#00A000",
+            "bold": true
         },
         "Char": {
-            "selected-text-color": "#6c2477",
-            "strike-through": true,
-            "text-color": "#924c9d"
+            "selected-text-color": "#E0A000",
+            "strike-through": false,
+            "text-color": "#E0A000"
         },
         "Comment": {
             "selected-text-color": "#9898d9",
             "text-color": "#9898d9"
         },
         "CommentVar": {
-            "selected-text-color": "#ffffff",
-            "strike-through": true,
-            "text-color": "#0095ff"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         },
         "Constant": {
-            "selected-text-color": "#5e2f00",
+            "selected-text-color": "#FF00FF",
             "strike-through": true,
-            "text-color": "#aa5500"
+            "text-color": "#FF00FF",
+            "bold": true,
+            "italic": true
         },
         "ControlFlow": {
             "bold": true,
@@ -152,9 +153,8 @@
             "text-color": "#f000f0"
         },
         "Documentation": {
-            "selected-text-color": "#46585e",
-            "strike-through": true,
-            "text-color": "#607880"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         },
         "Error": {
             "selected-text-color": "#9c0e0e",
@@ -162,14 +162,14 @@
             "underline": true
         },
         "Extension": {
-            "bold": true,
+            "bold": false,
             "selected-text-color": "#000000",
             "text-color": "#000000"
         },
         "Float": {
-            "selected-text-color": "#805c00",
-            "strike-through": true,
-            "text-color": "#b08000"
+            "selected-text-color": "#F000F0",
+            "strike-through": false,
+            "text-color": "#F000F0"
         },
         "Function": {
             "selected-text-color": "#000000",
@@ -198,8 +198,8 @@
             "text-color": "#ff0000"
         },
         "Others": {
-            "selected-text-color": "#006e28",
-            "text-color": "#006e28"
+            "selected-text-color": "#000000",
+            "text-color": "#000000"
         },
         "Preprocessor": {
             "selected-text-color": "#00a000",
@@ -212,8 +212,8 @@
             "text-color": "#0057ae"
         },
         "SpecialChar": {
-            "selected-text-color": "#008080",
-            "text-color": "#008080"
+            "selected-text-color": "#E0A000",
+            "text-color": "#E0A000"
         },
         "SpecialString": {
             "selected-text-color": "#008080",
