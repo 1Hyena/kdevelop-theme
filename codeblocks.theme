@@ -19,6 +19,11 @@
         "C": {
             "Error": {
                 "strike-through": true
+            },
+            "Standard Suffix": {
+                "bold": false,
+                "selected-text-color": "#ff00ff",
+                "text-color": "#ff00ff"
             }
         },
         "Doxygen": {
@@ -29,9 +34,9 @@
                 "strike-through": true
             },
             "HTML Tag": {
+                "bold": false,
                 "selected-text-color": "#9898d9",
-                "text-color": "#9898d9",
-                "bold": false
+                "text-color": "#9898d9"
             },
             "Identifier": {
                 "strike-through": true
@@ -43,6 +48,13 @@
             },
             "GNU Macros": {
                 "strike-through": true
+            }
+        },
+        "ISO C++": {
+            "Standard Suffix": {
+                "bold": false,
+                "selected-text-color": "#ff00ff",
+                "text-color": "#ff00ff"
             }
         },
         "Modelines": {
@@ -88,7 +100,7 @@
         "WordWrapMarker": "#ededed"
     },
     "metadata": {
-        "name": "Code::Blocks",
+        "name": "codeblocks",
         "revision": 1
     },
     "text-styles": {
