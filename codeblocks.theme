@@ -17,37 +17,26 @@
             }
         },
         "C": {
-            "Error": {
-                "strike-through": true
-            },
             "Standard Suffix": {
                 "bold": false,
                 "selected-text-color": "#ff00ff",
                 "text-color": "#ff00ff"
+            },
+            "String Char": {
+                "bold": true,
+                "text-color": "#e0a000"
             }
         },
         "Doxygen": {
-            "Entities": {
-                "strike-through": true
-            },
             "Error": {
-                "strike-through": true
+                "background-color": "#ffffff",
+                "selected-text-color": "#9898d9",
+                "text-color": "#9898d9"
             },
             "HTML Tag": {
                 "bold": false,
                 "selected-text-color": "#9898d9",
                 "text-color": "#9898d9"
-            },
-            "Identifier": {
-                "strike-through": true
-            }
-        },
-        "GCCExtensions": {
-            "Error": {
-                "strike-through": true
-            },
-            "GNU Macros": {
-                "strike-through": true
             }
         },
         "ISO C++": {
@@ -55,17 +44,10 @@
                 "bold": false,
                 "selected-text-color": "#ff00ff",
                 "text-color": "#ff00ff"
-            }
-        },
-        "Modelines": {
-            "Option OFF": {
-                "strike-through": true
             },
-            "Option ON": {
-                "strike-through": true
-            },
-            "Value": {
-                "strike-through": true
+            "String Char": {
+                "bold": true,
+                "text-color": "#e0a000"
             }
         }
     },
@@ -141,10 +123,9 @@
             "text-color": "#9898d9"
         },
         "Constant": {
-            "bold": true,
-            "italic": true,
+            "bold": false,
+            "italic": false,
             "selected-text-color": "#ff00ff",
-            "strike-through": true,
             "text-color": "#ff00ff"
         },
         "ControlFlow": {
@@ -166,9 +147,11 @@
             "text-color": "#9898d9"
         },
         "Error": {
-            "selected-text-color": "#9c0e0e",
-            "text-color": "#bf0303",
-            "underline": true
+            "background-color": "#ff0000",
+            "selected-text-color": "#000000",
+            "text-color": "#000000",
+            "underline": false,
+            "bold": true
         },
         "Extension": {
             "selected-text-color": "#000000",
@@ -187,9 +170,8 @@
             "text-color": "#00a000"
         },
         "Information": {
-            "selected-text-color": "#805c00",
-            "strike-through": true,
-            "text-color": "#b08000"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         },
         "Keyword": {
             "bold": true,
@@ -221,8 +203,8 @@
             "text-color": "#e0a000"
         },
         "SpecialString": {
-            "selected-text-color": "#008080",
-            "text-color": "#008080"
+            "selected-text-color": "#000000",
+            "text-color": "#000000"
         },
         "String": {
             "selected-text-color": "#0000ff",
@@ -233,14 +215,12 @@
             "text-color": "#000000"
         },
         "VerbatimString": {
-            "selected-text-color": "#9c0e0e",
-            "strike-through": true,
-            "text-color": "#ea0404"
+            "selected-text-color": "#000000",
+            "text-color": "#000000"
         },
         "Warning": {
-            "selected-text-color": "#9c0e0e",
-            "strike-through": true,
-            "text-color": "#bf0303"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         }
     }
 }
