@@ -1,4 +1,4 @@
-# Code::Blocks Color Theme for KDevelop ##########################################
+# Custom Color Theme for KDevelop ################################################
 
 Since [KDevelop](https://kdevelop.org/) comes with a set of built-in color themes
 that are dissatisfactory to my taste, I decided to copy the code highlighting and
