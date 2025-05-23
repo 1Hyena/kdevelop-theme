@@ -28,6 +28,11 @@
             "Error": {
                 "strike-through": true
             },
+            "HTML Tag": {
+                "selected-text-color": "#9898d9",
+                "text-color": "#9898d9",
+                "bold": false
+            },
             "Identifier": {
                 "strike-through": true
             }
@@ -35,12 +40,6 @@
         "GCCExtensions": {
             "Error": {
                 "strike-through": true
-            },
-            "GNU Extensions": {
-                "strike-through": false,
-                "underline": false,
-                "italic": true,
-                "bold": false
             },
             "GNU Macros": {
                 "strike-through": true
@@ -89,7 +88,7 @@
         "WordWrapMarker": "#ededed"
     },
     "metadata": {
-        "name": "Hyena",
+        "name": "Code::Blocks",
         "revision": 1
     },
     "text-styles": {
@@ -109,19 +108,17 @@
             "text-color": "#0000a0"
         },
         "BaseN": {
-            "selected-text-color": "#F000F0",
-            "strike-through": false,
-            "text-color": "#F000F0"
+            "selected-text-color": "#f000f0",
+            "text-color": "#f000f0"
         },
         "BuiltIn": {
-            "selected-text-color": "#00A000",
-            "text-color": "#00A000",
-            "bold": true
+            "bold": true,
+            "selected-text-color": "#00a000",
+            "text-color": "#00a000"
         },
         "Char": {
-            "selected-text-color": "#E0A000",
-            "strike-through": false,
-            "text-color": "#E0A000"
+            "selected-text-color": "#e0a000",
+            "text-color": "#e0a000"
         },
         "Comment": {
             "selected-text-color": "#9898d9",
@@ -132,11 +129,11 @@
             "text-color": "#9898d9"
         },
         "Constant": {
-            "selected-text-color": "#FF00FF",
-            "strike-through": true,
-            "text-color": "#FF00FF",
             "bold": true,
-            "italic": true
+            "italic": true,
+            "selected-text-color": "#ff00ff",
+            "strike-through": true,
+            "text-color": "#ff00ff"
         },
         "ControlFlow": {
             "bold": true,
@@ -162,14 +159,12 @@
             "underline": true
         },
         "Extension": {
-            "bold": false,
             "selected-text-color": "#000000",
             "text-color": "#000000"
         },
         "Float": {
-            "selected-text-color": "#F000F0",
-            "strike-through": false,
-            "text-color": "#F000F0"
+            "selected-text-color": "#f000f0",
+            "text-color": "#f000f0"
         },
         "Function": {
             "selected-text-color": "#000000",
@@ -206,14 +201,12 @@
             "text-color": "#00a000"
         },
         "RegionMarker": {
-            "background-color": "#e0e9f8",
-            "selected-text-color": "#00316e",
-            "strike-through": true,
-            "text-color": "#0057ae"
+            "selected-text-color": "#9898d9",
+            "text-color": "#9898d9"
         },
         "SpecialChar": {
-            "selected-text-color": "#E0A000",
-            "text-color": "#E0A000"
+            "selected-text-color": "#e0a000",
+            "text-color": "#e0a000"
         },
         "SpecialString": {
             "selected-text-color": "#008080",
